@@ -1,0 +1,2 @@
+Merge the branch through a pull request
+Now let’s merge the development branch into the master using a pull request workflow. We’ll pretend that we’ve cloned a repo managed by engineers, and we want to have the engineers merge in the development branch. (In other words, we might not have rights to merge branches into the master.) To do this, we’ll create a pull request.
