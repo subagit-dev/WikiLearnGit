@@ -1,0 +1,1 @@
+When you create the branch, you’ll see the Current branch drop-down menu indicate that you’re working in that branch. Creating a branch copies the existing content (from the branch you’re currently in, master) into the new branch (development).
